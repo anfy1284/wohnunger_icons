@@ -1,0 +1,15 @@
+{
+    "_comment": "Пути деплоя иконок в приложения",
+    "targets": [
+        {
+            "collection": "general",
+            "target": "d:/wohnunger/node_modules/my-old-space/apps/general_icons/resources/public",
+            "_comment": "Фреймворковые иконки (CRUD, навигация, файлы, система...)"
+        },
+        {
+            "collection": "booking",
+            "target": "d:/wohnunger/apps/booking_icons/resources/public",
+            "_comment": "Иконки прикладного решения (бронирование, счета, расчёты...)"
+        }
+    ]
+}
